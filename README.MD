@@ -21,6 +21,8 @@ The goal is to establish a reproducible embedded development environment and dem
 
 ### 1. Install VS Code and PlatformIO
 
+[setup.md](https://github.com/ODARI-CHARLES1/STM32-F401RE-Blink/blob/main/Docs/setup.md)
+
 * Install Visual Studio Code
 * Install PlatformIO IDE extension
 
