@@ -129,6 +129,7 @@ int main(void)
 ## Troubleshooting
 
 See docs/troubleshooting.md
+
 [Troubleshooting](https://github.com/ODARI-CHARLES1/STM32-F401RE-Blink/blob/main/Docs/troubleshoot.md)
 
 ---
