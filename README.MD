@@ -132,5 +132,5 @@ See docs/troubleshooting.md
 
 ## References
 
-* [STM32 Documentation(https://www.st.com/content/st_com/en.html)
+* [STM32 Documentation](https://www.st.com/content/st_com/en.html)
 * [PlatformIO Docs](https://docs.platformio.org/en/latest/)
